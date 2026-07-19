@@ -55,6 +55,6 @@ argument-hint: "[制約: 食材/シーン/調理法]（省略可）"
 
 ## Project Integration / Dependencies
 
-- 対象 Vault: `c:/@projects/cooking/`（laws を入力、ideas を出力）。
+- 対象 Vault: `c:/@projects/cooking/`（laws を入力、ideas を出力）。**このパスは作者環境の既定値。他環境では自分の料理 Vault のパスに読み替える**。
 - `WebSearch`（機序検証時）、`curl`（fetch-web フォールバック）。取り込み系ツール（yt-dlp等）は不要。
 - 関連: 発想の設計思想は `cooking/meta/automation-plan.md`、検証ルールは `cooking/CLAUDE.md`。
