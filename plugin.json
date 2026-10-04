@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cook-idea",
+  "description": "Generate original cooking ideas from a user-provided culinary laws vault, cross-check conditions and evidence, and write idea notes.",
+  "author": {
+    "name": "Eruto Kondo",
+    "email": "erutobusiness@gmail.com"
+  },
+  "homepage": "https://github.com/eruto-skills/cook-idea",
+  "repository": "https://github.com/eruto-skills/cook-idea",
+  "license": "MIT",
+  "version": "1.1.0"
+}
